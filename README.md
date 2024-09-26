@@ -15,4 +15,4 @@
 | 1 | Pertemuan 1 p5.js | Membuat shape di p5.js |
 
 # SCREENSHOT PROGRAM
-![Screenshot]()
+![Screenshot](https://github.com/SetyoAriRamadhan/Tugas-1-Grafika-Komputer/blob/main/Tugas%201/image.png)
